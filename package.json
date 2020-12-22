@@ -1,0 +1,12 @@
+{
+  "name": "@nozomuikuta/nuxt-content-rehype-assets",
+  "version": "0.1.2",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "remark": "^13.0.0"
+  },
+  "dependencies": {
+    "unist-util-visit": "^2.0.3"
+  }
+}
