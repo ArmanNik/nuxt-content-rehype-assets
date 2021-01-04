@@ -16,6 +16,7 @@ function attacher() {
         tagName === 'AppImage' ||
         tagName === 'app-image' ||
         tagName === 'img'
+        tagName === 'images'
       ) {
           if (src.startsWith('~/assets/')) {
             node.tagName = 'app-image'
